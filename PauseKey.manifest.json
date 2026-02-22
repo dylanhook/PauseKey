@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "PauseKey",
+  "name": "Pause Key",
+  "author": "dylan",
+  "version": "1.0.0",
+  "description": "a mod to change the pause key.",
+  "gameVersion": "1.40.8",
+  "dependsOn": {
+    "BSIPA": "^4.3.0",
+    "BeatSaberMarkupLanguage": "^1.12.0"
+  }
+}

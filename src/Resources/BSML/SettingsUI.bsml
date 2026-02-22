@@ -1,0 +1,11 @@
+<scroll-view xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://monkeymanboy.github.io/BSML-Docs/BSMLSchema.xsd">
+    <vertical pad-top="20" spacing="2" horizontal-fit="PreferredSize">
+        <horizontal preferred-width="70">
+            <dropdown-list-setting text="Pause Key" value="pause-button-value" choices="pause-button-choices" apply-on-change="true" bind-value="true" />
+        </horizontal>
+    </vertical>
+
+    <vertical pad-top="10">
+         <text text='mod by youtube.com/dylanhook' align='Center' font-size='3' color='#888888'/>
+    </vertical>
+</scroll-view>
